@@ -1,0 +1,16 @@
+{
+  "name": "ts-type",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "funai-yoshihisa-tanaka",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "tsx src/index"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
