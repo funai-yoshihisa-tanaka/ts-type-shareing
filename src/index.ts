@@ -7,7 +7,6 @@ type Type2 = {
   text: string;
 }
 
-
 const data1: Type1 = {
   id: 1,
   text: 'Text',
